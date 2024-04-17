@@ -110,6 +110,7 @@ dependencies {
 
     // Pagination3 library and for compose also
     implementation("androidx.paging:paging-compose:3.3.0-beta01")
+    implementation("androidx.paging:paging-runtime-ktx:3.2.1")
     implementation("androidx.room:room-paging:$roomVersion")
 
 }
